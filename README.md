@@ -37,3 +37,15 @@ print()
 要超連結
 [ABC](https://i.imgur.com/S8TfoWh.png)
 
+
+### Table
+|Index|Content|
+|:-----:|:-----:|
+|dog|cat|
+|Ctrl+b|粗體快捷鍵 **Content**|
+|Ctrl+i|斜體快捷鍵 *abc*|
+
+
+ 
+
+
