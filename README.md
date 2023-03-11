@@ -46,6 +46,12 @@ print()
 |Ctrl+i|斜體快捷鍵 *abc*|
 
 
+強制換行
+ddd <br> bbb
+
+橫線
+<hr>
+
  
 
 
